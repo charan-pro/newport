@@ -1,0 +1,32 @@
+<style>
+body
+{
+    font-family: Arial, sans-serif;
+    margin: 0;  
+    padding: 0;
+    background-color: skyblue;
+    color: black;
+}
+header
+{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+section
+{
+    max-width: 900px;
+    padding: 20px;
+    margin: 20px auto;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 5px rgba(0,0,0,0.1);
+}
+footer
+{
+    padding: 20px;
+    background-color: black;
+}
+    </style>
+</head>
